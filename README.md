@@ -28,7 +28,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh-sirsat&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dark" alt="yogesh-sirsat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogesh-sirsat&hide_rank=true&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&hide_title=true" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yogesh-sirsat&hide_rank=true&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&hide_title=true" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh-sirsat&theme=dark" alt="yogesh-sirsat" /></p>
 
