@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yogeshtwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yogeshtwts" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/yogesh-sirsat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/yogesh-sirsat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yogesh-sirsat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/yogesh-sirsat" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13020378/yogesh-sirsat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13020378/yogesh-sirsat" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yogesh_sirsat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yogesh_sirsat" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yogesh_sirsat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yogesh_sirsat_" height="30" width="40" /></a>
