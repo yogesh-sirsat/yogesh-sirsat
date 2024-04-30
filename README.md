@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Python, Javascript and Docker**
 
-- 📫 How to reach me **yogeshsirsat56@gmail.com**
+- 📫 How to reach me **hello@yogeshsirsat.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1aG-mjmWbUUrFPDGlwYNpZDj9WaGdoACb/view?usp=drive_link)
+- 📄 Know about my experiences [yogeshsirsat.com](https://yogeshsirsat.com)
 
 - ⚡ Fun fact **I am coding since 2018**
 
